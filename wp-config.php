@@ -1,6 +1,6 @@
 <?php
 /**
- * WordPress 基础配置文件
+ * WordPress 基础配置文件test
  *
  * 这个文件被安装程序用于自动生成 wp-config.php 配置文件
  * 您不必使用网站，可以将这个文件复制到「wp-config.php」并填写这些值。
